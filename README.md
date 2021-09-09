@@ -1,7 +1,7 @@
 # PlayTest
 ## A Flask-based CRUD App
 
-Check it out at: https://playtest-flask.herokuapp.com/
+Check it out at: https://playtest-flask.herokuapp.com/index
 
 This CRUD App simulates a fictional Blockbuster-like rental shop for video games, written in Python using **Flask** and **Jinja2** templating and styled using **Bootstrap 5**. Users can Create, Read, Update, and Delete
 Games, Consoles, Rentals, and Customers to simulate managing inventory and rental orders. Furthermore, two intermediate tables that handle Games per specific consoles and Games per rental order 
